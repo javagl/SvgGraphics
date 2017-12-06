@@ -9,7 +9,7 @@
 
     <groupId>de.javagl</groupId>
     <artifactId>svg-graphics</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
 
     <name>svg-graphics</name>
     <description>Utilities for saving Graphics output as SVG</description>
