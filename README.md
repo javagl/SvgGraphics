@@ -38,7 +38,7 @@ coordinates:
 </dependency>
 ```
 
-The library has some furter dependencies - mainly to the
+The library has some further dependencies - mainly to the
 Apache Batik library. For convenience, a standalone version
 of the library is offered for download in the
 [releases](https://github.com/javagl/SvgGraphics/releases)
