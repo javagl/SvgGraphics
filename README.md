@@ -4,7 +4,7 @@ Utilities for saving Graphics output as SVG.
 
 [Apache Batik](https://xmlgraphics.apache.org/batik/) offers an
 infrastructure for dealing with SVG graphics in Java. It 
-contains a class `SVGGraphics2D`, which is extends the Java
+contains a class `SVGGraphics2D`, which extends the Java
 Swing `Graphics2D` class and allows obtaining the results
 of drawing operations as SVG data structures. 
 
