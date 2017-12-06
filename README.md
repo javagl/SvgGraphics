@@ -24,4 +24,31 @@ to a user-selected SVG file:
     someJComponent.printAll(g);
     SvgGraphicsWriter.save(g);
     
-    
+
+## Releases
+
+This library is available in Maven Central, under the following 
+coordinates:
+
+```
+<dependency>
+  <groupId>de.javagl</groupId>
+  <artifactId>svg-graphics</artifactId>
+  <version>0.0.2</version>
+</dependency>
+```
+
+The library has some furter dependencies - mainly to the
+Apache Batik library. For convenience, a standalone version
+of the library is offered for download in the
+[releases](https://github.com/javagl/SvgGraphics/releases)
+section. Note that this standalone library includes classes 
+from Apache Batik, and is thus only available under the
+Apache License, Version 2.0. 
+See https://xmlgraphics.apache.org/batik/ for further information.
+
+
+
+
+
+
